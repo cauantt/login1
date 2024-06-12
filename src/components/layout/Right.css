@@ -1,0 +1,49 @@
+.right {
+
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+
+.layout {
+
+    
+    width: 50%;
+    height: 100vh;
+
+
+
+}
+
+
+.right #input1 {
+
+    height: 18px;
+    width: 30px;
+    border: none;
+
+}
+
+.checkbox {
+
+    display: flex;
+        align-items: center;
+
+
+}
+
+
+.line {
+
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+

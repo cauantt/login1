@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&display=swap");
+
+:root {
+  --brand-color: #1e9e6a;
+
+  --dark: #1a202c;
+
+  --gray-10: #656769;
+  --gray-20: #e8e8e8;
+  --gray-30: #f7fafc;
+
+  --white: #ffffff;
+}
+
+
+*, 
+*:after,
+*:before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    font-size: 100%;
+    list-style-type: none;
+    font-family: "Archivo", sans-serif;
+}
+
+
+
+.App {
+
+
+  display: flex;
+  flex-direction: row;
+
+
+}

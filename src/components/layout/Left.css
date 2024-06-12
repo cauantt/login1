@@ -1,0 +1,10 @@
+.left {
+
+
+    background-color: #F3FFF2;
+    width: 50vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
