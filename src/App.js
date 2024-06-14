@@ -7,8 +7,12 @@ function App() {
   return (
     <div className="App">
 
-      <Left />
-      <Right />
+      
+        <Left />
+     
+    
+        <Right />
+      
       
     </div>
   );
